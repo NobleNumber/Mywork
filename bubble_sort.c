@@ -1,9 +1,6 @@
 /*
     This is simple bubble sort program.
-    If you need, you can use this program without any permission.
-    But I cannot take responsibility.
-    I would appreciate it if you could tell me the bad point and how to fix it.
-
+    
     written in UTF-8
     written in 2017.6.12.20.30 UTC+9
 */
